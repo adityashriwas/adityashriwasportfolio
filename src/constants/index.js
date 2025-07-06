@@ -249,11 +249,11 @@ export const projects = [
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
         link: 'https://cynthiaugwu.wuaze.com/',
     },
-    {
-        iconUrl: estate,
-        theme: 'btn-back-black',
-        name: 'Two Good Co',
-        description: 'Two Good Co website UI Clone with animations.',
-        link: 'https://aadityashriwas.vercel.app/Project1/index.html',
-    },
+    // {
+    //     iconUrl: estate,
+    //     theme: 'btn-back-black',
+    //     name: 'Two Good Co',
+    //     description: 'Two Good Co website UI Clone with animations.',
+    //     link: 'https://aadityashriwas.vercel.app/Project1/index.html',
+    // },
 ];
