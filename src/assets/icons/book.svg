@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="book" width="64" height="64" viewBox="1.389 2.273 29.722 27.454">
+  <g transform="translate(-.889 -1021.635)">
+    <path fill="#a6bcc0" fill-rule="evenodd" stroke="#2b4255" d="m30.067 1034.998-7.395 12.808"></path>
+    <path fill="#25b39e" d="M19.5 1049.362a3 3 0 1 1 6 0h-3z"></path>
+    <path fill="#fcd062" d="M16.365 1032.621a2.5 2.5 0 1 1-4.14-2.66"></path>
+    <path fill="#25b39e" d="m10.576 1028.913 4.989-2.09 1.936-2.915h1.803l.696 1.663-1.936 2.916.01 5.408z"></path>
+    <path fill="#a6bcc0" fill-rule="evenodd" stroke="#2b4255" d="m16.492 1025.423 12.808 7.394"></path>
+    <path fill="#333" fill-opacity=".424" fill-rule="evenodd" d="m29.634 1034.748-1.076 1.863.867.5 1.074-1.863-.865-.5z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb"></path>
+    <circle cx="30" cy="1033.902" r="2" fill="#25b39e"></circle>
+    <path fill="#2b4255" d="M16 1049.353h13v2.009H16z"></path>
+    <path fill="none" d="m10.576 1028.913 4.989-2.09 1.936-2.915h1.803l.696 1.663-1.936 2.916.01 5.408z"></path>
+    <path fill="#333" fill-opacity=".424" fill-rule="evenodd" d="m16.743 1024.991-.5.865 4.114 2.37.498-.86z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb"></path>
+    <path fill="#a6bcc0" stroke="#2b4255" stroke-linecap="round" stroke-linejoin="round" d="m15.728 1025.63.497-.869 3.472 1.987-.497.868z"></path>
+    <path fill="none" d="M19.5 1049.902a3 3 0 0 1 6 0h-3z"></path>
+    <circle cx="30" cy="1033.902" r="2" fill="none"></circle>
+    <path fill="#cad1d8" d="M13.757 1047.362H4.445c-.655 0-1.168.657-1.168 1.5 0 .842.513 1.5 1.168 1.5h9.312z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb"></path>
+    <path fill="none" stroke="#34485c" d="M15 1050.834H4.444c-.923 0-1.666-.885-1.666-1.985s.743-1.986 1.666-1.986H15"></path>
+    <path fill="#e9eded" d="M3.52 1042.363h9.312c.655 0 1.168.657 1.168 1.5 0 .842-.513 1.5-1.168 1.5H3.521z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb"></path>
+    <path fill="none" stroke="#f05542" d="M2.278 1045.862h10.555c.924 0 1.667-.88 1.667-1.973s-.743-1.973-1.667-1.973H2.278"></path>
+  </g>
+</svg>
