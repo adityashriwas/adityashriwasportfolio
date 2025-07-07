@@ -226,7 +226,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Learning Managment System',
         description: 'Learning Management System (LMS) built using the MERN stack (MongoDB, Express, React, Node.js).',
-        link: 'https://e-learning-u1pi.onrender.com/',
+        link: 'https://e-learning-five-kappa.vercel.app/',
     },
     {
         iconUrl: github,
