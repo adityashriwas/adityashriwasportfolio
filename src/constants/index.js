@@ -121,7 +121,7 @@ export const experiences = [
     },
     {
         title: "Frontend Developer",
-        company_name: "Tesla",
+        company_name: "TechnoHacks EduTech",
         icon: technologist,
         iconBg: "#fbc3bc",
         date: "Feb 2024 - March 2024",
